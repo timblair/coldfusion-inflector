@@ -129,7 +129,7 @@
 		archive      = "archives",
 		index        = "indices",
 		wife         = "wives",
-		safe         = "saves",
+		safe         = "safes",
 		half         = "halves",
 		move         = "moves",
 		salesperson  = "salespeople",
