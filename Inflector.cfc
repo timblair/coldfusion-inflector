@@ -74,6 +74,7 @@
 		irregular('sex', 'sexes');
 		irregular('move', 'moves');
 		irregular('zombie', 'zombies');
+		irregular('safe', 'safes');
 		// uncountables (words that don't change)
 		uncountable('equipment');
 		uncountable('information');
