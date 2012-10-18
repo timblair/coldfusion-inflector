@@ -187,7 +187,8 @@
 		edge         = "edges",
 		database     = "databases",
 		stadium      = "stadia",
-		zombie       = "zombies"
+		zombie       = "zombies",
+		police       = "police"
 	}>
 	<cffunction name="pluralise_should_pluralise_simple_and_complex_words">
 		<cfset var word = "">

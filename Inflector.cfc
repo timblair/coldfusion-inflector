@@ -85,6 +85,7 @@
 		uncountable('fish');
 		uncountable('sheep');
 		uncountable('jeans');
+		uncountable('police');
 	</cfscript>
 
 	<!--- PUBLIC callable functions --->
